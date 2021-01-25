@@ -1,0 +1,53 @@
+.h3{
+    font-size: 26px;
+    width: 100%;
+    margin: 0px;
+}
+
+body{
+  background-size: cover;
+}
+
+#note{
+    font-size: 20px;
+    color: black;
+}
+
+#speed{
+    float: left;
+}
+
+#img_speed{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#volume{
+    float: right;
+}
+
+#img_volume{
+    width: 200px;
+    border-radius: 100px;
+}
+
+.play{
+    width: 300px;
+    font-size: 25px;
+
+}
+
+#cal_volume{
+    margin : 15px;
+    font-size: 23px;
+}
+
+#cal_speed
+{
+    margin : 15px;
+    font-size: 23px;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+}
